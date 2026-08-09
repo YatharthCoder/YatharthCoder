@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Yatharth%20Durgapal&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=console.log(%22building+things+that+move%22);Full-Stack+%2B+AI%2FML;Trains+AI+to+play+video+games+for+fun" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=console.log(%22building+things+that+move%22);Full-Stack+%2B+AI%2FML;Mastering+C%2C+C%2B%2B+%26+Python;Trains+AI+to+play+video+games+for+fun" alt="Typing SVG" />
 </div>
 
 ## 🚀 About
