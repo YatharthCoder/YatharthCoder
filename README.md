@@ -34,7 +34,7 @@ Full-stack dev who got bored of just shipping CRUD, so I started making AI do th
 
 ## 🌐 3D Contribution Calendar
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+  <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
 </div>
 
 ## 🌐 Connect With Me
