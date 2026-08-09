@@ -27,9 +27,9 @@ Full-stack dev who got bored of just shipping CRUD, so I started making AI do th
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YatharthCoder&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Activity Graph" />
 </div>
 
-## 👾 Contribution Snake
+## 👾 Contribution Shooter
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/main/game.gif?v=3" alt="Contribution Space Shooter" width="100%"/>
 </div>
 
 ## 🌐 Connect With Me
