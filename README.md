@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About
-Full-stack dev who got bored of just shipping CRUD, so I started making AI do things instead — track a face, play a video game, roast me back. Coding since 2019, on GitHub since 2020, currently rebuilding my C/C++ from scratch alongside Python because I want the fundamentals solid, not just the frameworks.
+Full-stack dev who got bored of just shipping CRUD, so I started making AI do things instead — track a face, play a video game, roast me back. Coding since 2019, on GitHub since 2020, currently mastering C, C++, and Python from the ground up.
 
 - 👁️ Computer vision that controls a game with your nose, not a controller
 - 🧠 AI planners/assistants that make their own decisions, not just answer prompts
@@ -18,7 +18,7 @@ Full-stack dev who got bored of just shipping CRUD, so I started making AI do th
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YatharthCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=YatharthCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" height="165" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=YatharthCoder&theme=tokyonight&hide_border=true&cache_seconds=0" height="165" alt="GitHub Streak" />
 </div>
 
@@ -30,6 +30,11 @@ Full-stack dev who got bored of just shipping CRUD, so I started making AI do th
 ## 👾 Contribution Shooter
 <div align="center">
   <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/main/game.gif?v=3" alt="Contribution Space Shooter" width="100%"/>
+</div>
+
+## 🌐 3D Contribution Calendar
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
 </div>
 
 ## 🌐 Connect With Me
