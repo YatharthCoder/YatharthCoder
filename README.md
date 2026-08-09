@@ -6,12 +6,12 @@
 
 ## About
 
-Started coding in 6th grade (2019). Took a 2-year break, forgot most of it. Now know Python + SQL from 12th, and I'm actively relearning to get back to where I was — C/C++ next, on top of full-stack + AI/ML.
-
-Not just a full-stack dev — I build AI-driven tools:
-- Computer vision (nose-tracking game control)
-- AI planners/assistants with their own logic
-- Chatbots with personality, not just Q&A
+- Coding since 2019 · On GitHub since 2020
+- Full-stack dev, not just the usual CRUD stuff — I build AI-driven tools too:
+  - Computer vision (nose-tracking game control)
+  - AI planners/assistants with their own logic
+  - Chatbots with personality, not just Q&A
+- Currently sharpening C/C++ alongside Python
 
 ## Tech Stack
 
@@ -21,46 +21,32 @@ Not just a full-stack dev — I build AI-driven tools:
 
 ## Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| **AI Mario** | Trained an AI to play Mario, controlled by nose position (webcam) instead of keyboard | `Computer Vision` `Python` |
-| **AetherUs AI** | AI study planner — generates study plans + practice questions | `AI` `Planning` |
-| **Aether Bot** | Chatbot that replies with sarcasm, not generic answers | `AI` `NLP` |
-| **Kundali/Astrology Platform** *(private — client project)* | Generates kundali charts and astrology reports; source private due to client agreement | `Full-Stack` |
-
-<!-- add real repo links above once ready -->
+<!-- add your pinned repos / project cards here -->
 
 ## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YatharthCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YatharthCoder&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=YatharthCoder&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-## Contribution Shooter
+## Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/main/game.gif" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YatharthCoder&theme=tokyo-night&hide_border=true" width="98%"/>
 </div>
 
-<!-- Setup: add this to .github/workflows/shooter.yml in your USERNAME/USERNAME repo
-name: Contribution Shooter
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions: {contents: write}
-    steps:
-      - uses: actions/checkout@v4
-        with: {fetch-depth: 2}
-      - uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
--->
+## Pac-Man Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YatharthCoder/YatharthCoder/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ## Connect
 
